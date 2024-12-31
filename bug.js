@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo with a large amount of data. It's not a common error, but it can be quite frustrating to debug.  The error message is usually something like `AsyncStorage has exceeded the maximum storage size`.
